@@ -4,6 +4,7 @@
     <router-view />
     <div class="mt-5 mx-auto text-center opacity-25 text-sm">
       [Home Layout]
+      <h1> test</h1>
     </div>
     <Footer />
   </main>
