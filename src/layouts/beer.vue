@@ -6,7 +6,6 @@
       [Beer Layout]
     </div>
     <div class="list-container">
-      <h1>test</h1>
       <ul v-for="beer in beers" :key="beer.id">
         <p>{{ beer.name }}</p>
         <p> {{ beer.brewery_type }}</p>
