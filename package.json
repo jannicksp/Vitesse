@@ -9,6 +9,7 @@
   "dependencies": {
     "@vueuse/core": "^6.0.0",
     "@vueuse/head": "^0.6.0",
+    "node-fetch": "^2.6.1",
     "nprogress": "^0.2.0",
     "pinia": "^2.0.0-rc.6",
     "prism-theme-vars": "^0.2.2",

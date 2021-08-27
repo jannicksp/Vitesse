@@ -17,6 +17,7 @@
 </template>
 
 <script lang="ts">
+const fetch = require('node-fetch')
 
 export default {
   data() {
