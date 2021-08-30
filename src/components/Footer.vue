@@ -56,9 +56,10 @@
   width: 100%;
   text-align: left;
   font: bold 16px sans-serif;
-
   padding: 55px 50px;
   margin-top: 80px;
+  position: fixed;
+  bottom: 0;
 }
 
 .footer-distributed .footer-left,
